@@ -1,8 +1,8 @@
 {
     "name": "IPALibrary Source",
     "identifier": "me.ipalibrary.source",
-    "subtitle": "Last Update: Nov 17, 2026 - 05:54:10 UTC",
-    "description": "Custom AltStore source for IPALibrary apps. Updated at Nov 17, 2026 - 05:54:10 UTC.",
+    "subtitle": "Last Update: Nov 17, 2026 - 15:36:02 UTC",
+    "description": "Custom AltStore source for IPALibrary apps. Updated at Nov 17, 2026 - 15:36:02 UTC.",
     "iconURL": "https://ipalibrary.me/favicon.ico",
     "website": "https://ipalibrary.me",
     "apps": [
@@ -2042,17 +2042,6 @@
             "size": 0
         },
         {
-            "name": "#filmphotography",
-            "bundleIdentifier": "me.ipalibrary.filmphotography",
-            "developerName": "Baglan Dosmagambetov",
-            "version": "1.4.2",
-            "versionDate": "2026-11-17",
-            "downloadURL": "https://archive.org/download/filmphotography_1.4.2_LeTi/filmphotography_1.4.2_LeTi.ipa",
-            "localizedDescription": "App: #filmphotography\nVersion: 1.4.2\nSource: IPALibrary",
-            "iconURL": "https://ipalibrary.me/wp-content/uploads/2023/02/filmphotography-150x150.png",
-            "size": 0
-        },
-        {
             "name": "Phone Drive: File Storage Sync",
             "bundleIdentifier": "me.ipalibrary.phonedrivefilestoragesync",
             "developerName": "Eightythree Technology",
@@ -2586,7 +2575,7 @@
             "developerName": "TAPUNIVERSE LLC",
             "version": "2.0",
             "versionDate": "2026-11-17",
-            "downloadURL": " https://archive.org/download/anime-filters-2-2.0-le-ti/AI%20Anime%20Filter_2.0_LeTi.ipa",
+            "downloadURL": "https://archive.org/download/anime-filters-2-2.0-le-ti/AI%20Anime%20Filter_2.0_LeTi.ipa",
             "localizedDescription": "App: AI Anime Filter\nVersion: 2.0\nSource: IPALibrary",
             "iconURL": "https://ipalibrary.me/wp-content/uploads/2023/03/AI-Anime-Filter-150x150.jpeg",
             "size": 0
