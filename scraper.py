@@ -25,7 +25,7 @@ def decode_download_url(encoded_href):
         
         match = re.search(r'url=([^&]+)', decoded_str)
         if match:
-            return match.group(1)
+            return match.group(1).strip()
     except Exception:
         pass
     return None
